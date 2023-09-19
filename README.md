@@ -5,6 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedson-c%C3%A2ndido-81a3211a5/)
 
 ![Wedson GitHub stats](https://github-readme-stats.vercel.app/api?username=wedson97&show_icons=true&theme=radical)
+<a href="https://github.com/wedson97?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedson97&layout=compact&langs_count=10&theme=github_dark&border_radius=10"/>
+</a>
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block">
